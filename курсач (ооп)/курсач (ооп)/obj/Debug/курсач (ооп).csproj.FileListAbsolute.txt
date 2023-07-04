@@ -1,0 +1,14 @@
+C:\Users\Валан\Desktop\проги\курсач (ооп)\курсач (ооп)\bin\Debug\курсач (ооп).exe.config
+C:\Users\Валан\Desktop\проги\курсач (ооп)\курсач (ооп)\bin\Debug\курсач (ооп).exe
+C:\Users\Валан\Desktop\проги\курсач (ооп)\курсач (ооп)\bin\Debug\курсач (ооп).pdb
+C:\Users\Валан\Desktop\проги\курсач (ооп)\курсач (ооп)\obj\Debug\курсач (ооп).csprojAssemblyReference.cache
+C:\Users\Валан\Desktop\проги\курсач (ооп)\курсач (ооп)\obj\Debug\курсач__ооп_.Properties.Resources.resources
+C:\Users\Валан\Desktop\проги\курсач (ооп)\курсач (ооп)\obj\Debug\курсач (ооп).csproj.GenerateResource.cache
+C:\Users\Валан\Desktop\проги\курсач (ооп)\курсач (ооп)\obj\Debug\курсач (ооп).exe
+C:\Users\Валан\Desktop\проги\курсач (ооп)\курсач (ооп)\obj\Debug\курсач (ооп).pdb
+C:\Users\Валан\Desktop\проги\курсач (ооп)\курсач (ооп)\obj\Debug\курсач__ооп_.Form1.resources
+C:\Users\Валан\Desktop\проги\курсач (ооп)\курсач (ооп)\obj\Debug\курсач__ооп_.Form2.resources
+C:\Users\Валан\Desktop\проги\курсач (ооп)\курсач (ооп)\obj\Debug\курсач__ооп_.Form3.resources
+C:\Users\Валан\Desktop\проги\курсач (ооп)\курсач (ооп)\obj\Debug\курсач__ооп_.Form4.resources
+C:\Users\Валан\Desktop\проги\курсач (ооп)\курсач (ооп)\obj\Debug\курсач__ооп_.Form5.resources
+C:\Users\Валан\Desktop\проги\курсач (ооп)\курсач (ооп)\obj\Debug\курсач__ооп_.Form6.resources
